@@ -5,13 +5,13 @@ Zesty Technology designed a [Nimble](https://zestytechnology.readthedocs.io/en/l
 ## Summary of changes
 
 * Enlarged the through-hole to allow the PTFE feed tube to pass
-.. Otherwise, the filament would be free to bend/kink in the 5 mm gap between bottom of the Nimble and the top of the V6
+  - Otherwise, the filament would be free to bend/kink in the 5 mm gap between bottom of the Nimble and the top of the V6
 * Removed material that blocked the tube collet and collet clip
-.. Otherwise, the bracket would not sit flush on the effector
+  - Otherwise, the bracket would not sit flush on the effector
 * Deepened the Nimble bolt countersinks
-.. Otherwise, the bolts would strike the bottom and split the bracket in two during installation
+  - Otherwise, the bolts would strike the bottom and split the bracket in two during installation
 * Lowered the surface for the effector mounting holes
-.. Purely cosmetic, and allows for shorter mounting bolts when attaching the bracket to the effector
+  - Purely cosmetic, and allows for shorter mounting bolts when attaching the bracket to the effector
 
 ## Size: 1.75 mm filament models
 
