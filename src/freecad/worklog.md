@@ -18,7 +18,7 @@ Otherwise, the filament would be free to bend/kink in the 5 mm gap between botto
 
 One shape to cut:
 
-* a cylinder: 2.3 mm r x 10 mm
+* a cylinder: 2.3 mm r x 2.8 mm
 
 ### Remove material that blocks the tube collet and collet clip
 Otherwise, the bracket would not sit flush on the effector.
