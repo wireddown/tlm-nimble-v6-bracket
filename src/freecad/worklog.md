@@ -42,6 +42,10 @@ Purely cosmetic, and allows for shorter mounting bolts when attaching the bracke
 
 Many shapes to cut:
 
-* a cube: 40 mm x 40 mm x 10 mm
-* a cylinder, twice: 4.5 r mm x 10 mm
-* 
+* a cube: 40 mm x 40 mm x 6 mm
+* a cylinder, twice: 4.5 mm r x 6 mm
+* a cylinder: 16.6 mm r x 6 mm
+* a cylinder: 8.3 mm r x 6 mm
+* a cube: 18.1 mm x 15 mm x 6 mm
+
+The first cube is the main shape I used to cut the mount. To quickly make the cutting shape, center the large cube over the bracket's filament hole and lower it 2 mm below the top face of the bracket. To keep the core of the mount, the bolt stops, and gear housing, place the remaining pieces so that they are flush with the top face of the bracket and arrange them so they overlap those critical regions. Then, fuse them together before cutting the resulting shape from large cube.
