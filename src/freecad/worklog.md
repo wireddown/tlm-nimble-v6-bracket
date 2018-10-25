@@ -43,7 +43,7 @@ Purely cosmetic, and allows for shorter mounting bolts when attaching the bracke
 Many shapes to cut:
 
 * a cube: 40 mm x 40 mm x 6 mm
-* a cylinder, twice: 4.5 mm r x 6 mm
+* a cylinder, twice: 4.8 mm r x 6 mm
 * a cylinder: 16.6 mm r x 6 mm
 * a cylinder: 8.3 mm r x 6 mm
 * a cube: 18.1 mm x 15 mm x 6 mm
