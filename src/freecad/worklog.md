@@ -42,10 +42,11 @@ Purely cosmetic, and allows for shorter mounting bolts when attaching the bracke
 
 Many shapes to cut:
 
-* a cube: 40 mm x 40 mm x 6 mm
-* a cylinder, twice: 4.8 mm r x 6 mm
-* a cylinder: 16.5 mm r x 6 mm
-* a cylinder: 8.3 mm r x 6 mm
-* a cube: 18.1 mm x 15 mm x 6 mm
+* a cube: 40 mm x 40 mm x 5 mm
+* a cylinder, twice: 4.8 mm r x 5 mm
+* a cylinder: 16.5 mm r x 5 mm
+* a cylinder: 8.3 mm r x 5 mm
+* a cube: 18.1 mm x 15 mm x 5 mm
+* a cylinder: 4.2 mm r x 5 mm
 
-The first cube is the main shape I used to cut the mount. To quickly make the cutting shape, center the large cube over the bracket's filament hole and lower it 2 mm below the top face of the bracket. To keep the core of the mount, the bolt stops, and gear housing, place the remaining pieces so that they are flush with the top face of the bracket and arrange them so they overlap those critical regions. Then, fuse them together before cutting the resulting shape from large cube.
+The first cube is the main shape I used to cut the mount. To quickly make the cutting shape, center the large cube over the bracket's filament hole and lower it 2 mm below the top face of the bracket. To keep the core of the mount, the bolt stops, and gear housing, place the remaining pieces, except for the last cylinder, so that they are flush with the top face of the bracket and arrange them so they overlap those critical regions. Then, fuse them together before cutting the resulting shape from large cube. Finally, place the last cylinder so that it cuts the mounting face for the bolt beneath the Nimble flush and fuse it with the large cube. Cut this final shape from the Nimble base shape to complete the updates.
