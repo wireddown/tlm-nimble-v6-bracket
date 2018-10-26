@@ -2,8 +2,8 @@
 
 ## STL files
 
-* [Base](/docs/tlm-nimble-v6-freecad.stl)
-* [Position plate](/docs/tlm-nimble-v6-position-plate-freecad.stl)
+* [Base](/../../docs/tlm-nimble-v6-base-plate-freecad.stl)
+* [Position plate](/../../docs/tlm-nimble-v6-position-plate-freecad.stl)
 
 ## Tools and environment
 
