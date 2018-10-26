@@ -1,10 +1,5 @@
 # Work log
 
-## STL files
-
-* [Base](/../../docs/tlm-nimble-v6-base-plate-freecad.stl)
-* [Position plate](/../../docs/tlm-nimble-v6-position-plate-freecad.stl)
-
 ## Tools and environment
 
 * FreeCAD 0.17 (released August 2018)
