@@ -4,6 +4,9 @@ Zesty Technology designed a [Nimble](https://zestytechnology.readthedocs.io/en/l
 
 ![rendering of the updated bracket](/docs/tlm-nimble-v6-freecad.png)
 
+* [Base plate](blob/master/docs/tlm-nimble-v6-base-plate-freecad.stl)
+* [Position plate](blob/master/docs/tlm-nimble-v6-position-plate-freecad.stl)
+
 ## Summary of changes
 
 1. Enlarged the through-hole to allow the PTFE feed tube to pass
