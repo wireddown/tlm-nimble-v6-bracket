@@ -20,6 +20,8 @@ Zesty Technology designed a [Nimble](https://zestytechnology.readthedocs.io/en/l
 
 ![rendering of the removed regions from the original bracket](/docs/regions-removed-labeled.png)
 
+![photo comparison showing 10 mm gap](blob/master/docs/demo-comparison.gif)
+
 ## Size: 1.75 mm filament models
 
 E3D has both 1.75 mm and 3 mm sized models of their V6 hotend, and this bracket has been designed for the 1.75 mm variants.
