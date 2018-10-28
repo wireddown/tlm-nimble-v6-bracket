@@ -4,8 +4,8 @@ Zesty Technology designed a [Nimble](https://zestytechnology.readthedocs.io/en/l
 
 ![rendering of the updated bracket](/docs/tlm-nimble-v6-freecad.png)
 
-* [Base plate](blob/master/docs/tlm-nimble-v6-base-plate-freecad.stl) stl
-* [Position plate](blob/master/docs/tlm-nimble-v6-position-plate-freecad.stl) stl
+* [Base plate](/docs/tlm-nimble-v6-base-plate-freecad.stl) stl
+* [Position plate](/docs/tlm-nimble-v6-position-plate-freecad.stl) stl
 
 ## Summary of changes
 
