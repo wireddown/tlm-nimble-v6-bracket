@@ -5,6 +5,7 @@ To measure the acceleration of the effector as it prints, I added a mount for a 
 ![rendering of the extended bracket](/docs/tlm-nimble-v6-lis3dh-freecad.png)
 
 * [Base plate](blob/master/docs/tlm-nimble-v6-lis3dh-base-plate-freecad.stl) stl
+* [LIS3DH mount extension](blob/master/docs/tlm-nimble-v6-lis3dh-mount-extension-freecad.stl) stl
 * [Position plate](blob/master/docs/tlm-nimble-v6-position-plate-freecad.stl) stl
 
 For more details, see the [worklog](/src/freecad/lis3dh-extension.md).
